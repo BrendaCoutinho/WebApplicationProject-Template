@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# AutoPUC
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+`PROJETO WEB`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Brenda Coutinho Abaunza Cordeiro Frauches
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardini
 
 ## Instruções de utilização
 
